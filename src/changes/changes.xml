@@ -1,0 +1,28 @@
+<document xmlns="http://maven.apache.org/changes/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/changes/1.0.0 http://maven.apache.org/xsd/changes-1.0.0.xsd">
+  <properties>
+    <title>Changes com.example.van Project</title>
+    <author email="vlvanchin@gmail.com">vlvanchin</author>
+  </properties>
+  <body>
+    <release version="0.0.1" date="2020-07-20" description="main release">
+      <action dev="vanchin" type="add">
+        Added additional documentation on how to configure the plugin.
+      </action>
+      <action dev="aramirez" type="fix" issue="MPJIRA-11">
+        Enable retrieving component-specific issues.
+      </action>
+      <action dev="vanchin" type="remove" due-to="Allan Ramirez" due-to-email="aramirez@exist.com">
+        The element type " link " must be terminated by the matching end-tag.
+        Deleted the erroneous code.
+      </action>
+    </release>
+
+    <release version="1.0" date="2005-01-01" description="First release">
+      <action dev="vanchin" type="update">
+        Uploaded documentation on how to use the plugin.
+      </action>
+    </release>
+  </body>
+</document>
