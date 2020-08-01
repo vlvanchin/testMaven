@@ -1,8 +1,14 @@
 # Changelog
 Changelog of My Project.
 
-## v0.0.1
+## Unreleased
 ### No issue
+
+**changelog.md file updated**
+
+ * Signed-off-by: vlvanchin &lt;vlvanchin@gmail.com&gt;
+
+[fc1f3ba4beb99a3](https://github.com/vlvanchin/testMaven/commit/fc1f3ba4beb99a3) vlvanchin *2020-08-01 04:24:02*
 
 **update README.md and pom.xml for changelog and added initial changelog.md file**
 
