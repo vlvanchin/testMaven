@@ -1,8 +1,14 @@
 # Changelog
 Changelog of My Project.
 
-## Unreleased
+## v0.0.1
 ### No issue
+
+**changelog.md update, tag v0.0.1 created**
+
+ * Signed-off-by: vlvanchin &lt;vlvanchin@gmail.com&gt;
+
+[5f56e0685155dad](https://github.com/vlvanchin/testMaven/commit/5f56e0685155dad) vlvanchin *2020-08-01 05:01:21*
 
 **changelog.md file updated**
 
