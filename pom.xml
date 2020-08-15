@@ -26,6 +26,14 @@
    		</snapshotRepository>
 	</distributionManagement>
 
+	<repositories>
+		<repository>
+			<id>nexus-snapshots</id>
+			<name>local nexus server</name>
+			<url>http://localhost:8081/repository/maven-public/</url>
+		</repository>
+	</repositories>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
