@@ -28,7 +28,7 @@
 
 	<repositories>
 		<repository>
-			<id>nexus-snapshots</id>
+			<id>nexus-maven-public</id>
 			<name>local nexus server</name>
 			<url>http://localhost:8081/repository/maven-public/</url>
 		</repository>
