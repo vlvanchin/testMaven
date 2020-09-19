@@ -37,13 +37,13 @@
    		</snapshotRepository>
 	</distributionManagement>
 
-	<!-- repositories>
+	<repositories>
 		<repository>
 			<id>localNexus</id>
 			<name>local nexus server</name>
-			<url>http://172.17.0.3:8081/repository/maven-public/</url>
+			<url>http://localhost:8081/repository/maven-public/</url>
 		</repository>
-	</repositories -->
+	</repositories>
 
 	<dependencies>
 		<dependency>
